@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="my_name">Roman Boyarkin</string>
+    <string name="title">Android Developer Extraordinaire </string>
+    <string name="email">boyra75.rb@gmail.com</string>
+    <string name="number_telephone">+7 (914)476 35 97</string>
+    <string name="telegram">$@Ro_Vl_Boy</string>
+</resources>
